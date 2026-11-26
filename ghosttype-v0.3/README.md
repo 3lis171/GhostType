@@ -71,6 +71,16 @@ Highlight the instruction and press **Ctrl + Shift + Space**.
 
 GhostType will process the instruction using your selected local AI model and replace the selected text with its response.
 
+## Visual Tutorials
+
+### How to Start GhostType
+
+![Installation Guide](HowToStartGhostType.png)
+
+### GhostType Controls and Settings
+
+![Controls Guide](GhostTypeControls.png)
+
 ## Keyboard Shortcuts
 
 | Shortcut | Action |
